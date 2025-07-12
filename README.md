@@ -1,18 +1,19 @@
-# 👨‍💻 Sobre Mim | About Me
+# 👨‍💻 Sobre Mim
 
-Olá! Eu sou o **Kauã**, um entusiasta de **Cibersegurança** com paixão por linguagens de baixo e alto nível, como **Python**, **Java** e **Assembly**.  
-Meu foco é criar sistemas **seguros, eficientes e resilientes**, desenvolvendo ferramentas que reforcem a segurança da informação e combatendo ameaças com conhecimento técnico profundo.
+Olá! Eu sou o **Kauã**, um entusiasta de **Cibersegurança**, com foco principal em **teste de segurança de sistemas** e **segurança de dados**.  
+Sou apaixonado por linguagens como **Python**, **Java** e **Assembly**, e utilizo essas tecnologias para desenvolver ferramentas, explorar vulnerabilidades e proteger aplicações contra ameaças reais.
 
 ---
 
 ## 🛡️ Especializações
 
-- 🔍 **Testes de Intrusão**: automação de pentests e análise de vulnerabilidades em sistemas e aplicações.
-- 🐍 **Python Hacker**: exploits, análise de logs, automação de scans, parsing de pacotes e integração com ferramentas ofensivas.
-- 🧬 **Assembly & Engenharia Reversa**: buffer overflow, shellcode, análise de binários e debugging.
-- ☕ **Java Security**: análise de código, autenticação, segurança em APIs e aplicações web.
-- 🧠 **Red Team & Blue Team**: defesa proativa e simulações de ataque realistas.
-- ☁️ **CyberOps**: scripts para hardening de sistemas, coleta de evidências, análise forense e automação de tarefas.
+- 🔐 **Teste de Segurança de Sistemas**: simulação de ataques (pentest), análise de falhas e verificação da robustez de aplicações e serviços.
+- 🔒 **Segurança de Dados**: proteção de informações sensíveis, criptografia, controle de acesso e prevenção de vazamentos.
+- 🐍 **Python Hacker**: automação de tarefas ofensivas e defensivas, criação de exploits, scripts de análise e integração com ferramentas.
+- 🧬 **Assembly & Engenharia Reversa**: exploração de falhas de baixo nível, análise de binários, buffer overflow e criação de shellcodes.
+- ☕ **Java Security**: segurança em aplicações web, autenticação, proteção contra ataques como SQLi, XSS e CSRF.
+- 🧠 **Red Team & Blue Team**: experiência prática em simulações de ataque e defesa de ambientes reais.
+- ☁️ **CyberOps**: automação de hardening, análise forense, coleta de logs e resposta a incidentes.
 
 ---
 
@@ -24,7 +25,7 @@ Meu foco é criar sistemas **seguros, eficientes e resilientes**, desenvolvendo 
 **Pentest & Reversing**  
 `Nmap`, `Wireshark`, `Metasploit`, `Burp Suite`, `Ghidra`, `Radare2`, `IDA Free`
 
-**DevSecOps & Infra**  
+**DevSecOps & Infraestrutura**  
 `Docker`, `Git`, `Kali Linux`, `VirtualBox`, `Windows Server`, `Azure (básico)`
 
 ---
@@ -45,16 +46,9 @@ Aplicação Java para ataques de dicionário em formulários, autenticação HTT
 
 ---
 
-## 🌐 Idiomas
-
-- 🇧🇷 **Português Nativo**
-- 🇺🇸 **Inglês Intermediário**
-
----
-
 ## 📫 Vamos nos Conectar!
 
-Estou sempre aberto a **novas conexões, parcerias e desafios** em cibersegurança, automação ou desenvolvimento de ferramentas.  
+Estou sempre aberto a **novas conexões, parcerias e desafios** em segurança ofensiva, proteção de dados ou automação de testes.  
 **Entre em contato**:
 
 - 📧 Email  
@@ -63,7 +57,7 @@ Estou sempre aberto a **novas conexões, parcerias e desafios** em ciberseguran�
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 ![Snake animation](https://github.com/kafernando/kafernando/blob/output/github-contribution-grid-snake.svg)
 
